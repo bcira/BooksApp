@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Infrastructure.deps.json
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Infrastructure.dll
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Infrastructure.pdb
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Entities.dll
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Entities.pdb
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.AssemblyInfo.cs
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.csproj.CopyComplete
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.dll
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\refint\BooksApp.Infrastructure.dll
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.pdb
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\ref\BooksApp.Infrastructure.dll
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\bin\Debug\net7.0\BooksApp.Infrastructure.runtimeconfig.json
+C:\Users\asus\source\repos\BooksApp\src\Infrastructure\BooksApp.Infrastructure\obj\Debug\net7.0\BooksApp.Infrastructure.genruntimeconfig.cache

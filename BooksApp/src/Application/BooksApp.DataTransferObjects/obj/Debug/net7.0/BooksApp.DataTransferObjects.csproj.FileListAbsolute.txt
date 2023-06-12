@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\bin\Debug\net7.0\BooksApp.DataTransferObjects.deps.json
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\bin\Debug\net7.0\BooksApp.DataTransferObjects.dll
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\bin\Debug\net7.0\BooksApp.DataTransferObjects.pdb
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.AssemblyInfo.cs
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.dll
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\refint\BooksApp.DataTransferObjects.dll
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\BooksApp.DataTransferObjects.pdb
+C:\Users\asus\source\repos\BooksApp\src\Application\BooksApp.DataTransferObjects\obj\Debug\net7.0\ref\BooksApp.DataTransferObjects.dll

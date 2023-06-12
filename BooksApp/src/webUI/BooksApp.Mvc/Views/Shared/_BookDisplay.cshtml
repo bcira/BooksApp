@@ -1,0 +1,14 @@
+﻿@using BooksApp.DataTransferObjects.Responses;
+
+@model BookDisplayResponse
+
+<div class="card">
+    <img src="@Model.ImageUrl" class="img-fluid" />
+    <div class="card-body">
+        <h4 class="card-title">@Model.Name</h4>
+        <p class="card-text">@Model.Author</p>
+        <p class="card-text">@Model.Price</p>
+        <button class="btn btn-success basket" data-id="@Model.Id">Sepete ekle</button>
+    </div>
+
+</div>
